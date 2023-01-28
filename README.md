@@ -6,7 +6,7 @@ UE4_project
 
 - **Hall**
     
-    This is the spawn of the players. In this place, put healing items in your backpack, select a weapon and take the ammo. The hall connects with the [kitchen](https://www.notion.so/Location-Description-1d8f9793f16c421f8d6a7eb293856c74).
+    This is the spawn of the players. In this place, put healing items in your backpack, select a weapon and take the ammo. The hall connects with the [kitchen](**Kitchen**).
     
 - **Kitchen**
     
